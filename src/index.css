@@ -2,10 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
 
 
 body{
   background-color: #000000;
-  font-family: 'Cinzel', serif;
+  font-family: 'Poppins', serif;
+}
+h1{
+  font-family: 'Bebas Neue',sans-serif;
+}
+.navlogo{
+  margin-top: -17px;
+  width: 136px;
 }
