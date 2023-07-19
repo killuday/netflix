@@ -7,12 +7,18 @@ Developed using React, Tailwind CSS, and Firebase for user authentication and da
 ## 🚀 Quick Start
 To get started with the Netflix Clone, follow these simple steps:
 
-1️⃣ Clone or download the repository.
-2️⃣ Install the necessary dependencies using npm or yarn.
-3️⃣ Set up Firebase for user authentication and data storage.
-4️⃣ Customize the web app with your branding and preferred UI design.
-5️⃣ Implement user authentication to enable users to create accounts and sign in securely.
-6️⃣ Integrate the external TV show API to fetch and display a vast collection of TV shows.
+1️⃣ Clone or download the repository.  
+
+2️⃣ Install the necessary dependencies using npm or yarn.  
+
+3️⃣ Set up Firebase for user authentication and data storage.  
+
+4️⃣ Customize the web app with your branding and preferred UI design.  
+
+5️⃣ Implement user authentication to enable users to create accounts and sign in securely.  
+
+6️⃣ Integrate the external TV show API to fetch and display a vast collection of TV shows.  
+
 
 ## 🎨 Customization
 Customize various elements of the Netflix Clone to create a unique TV show viewing platform:
