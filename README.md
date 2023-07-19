@@ -37,4 +37,4 @@ This Netflix Clone is released under the MIT License, granting you the freedom t
 ## 📚 Resources
 For detailed instructions and guidance, check out the documentation provided with this clone. It will walk you through the setup, customization, and integration of Firebase for user authentication and data storage, as well as the integration of the external TV show API.
 
-If you encounter any issues or have questions, don't hesitate to reach out for support. We're here to help you create an engaging TV show viewing experience with the Netflix Clone! 🌟✨🎬
+If you encounter any issues or have questions, don't hesitate to reach out for support. We're here to help you create an engaging TV show viewing experience with the Netflix Clone! 🌟✨🎬.
